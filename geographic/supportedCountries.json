@@ -1,3 +1,4 @@
-[ 
-  {name: 'United States', code: 'US'},
-]
+[{
+	"name": "United States",
+	"code": "US"
+}]
