@@ -3,7 +3,7 @@
 		"code": "AF"
 	},
 	{
-		"name": "Åland Islands",
+		"name": "Aland Islands",
 		"code": "AX"
 	},
 	{
@@ -407,7 +407,7 @@
 		"code": "ID"
 	},
 	{
-		"name": "Iran, Islamic Republic Of",
+		"name": "Iran",
 		"code": "IR"
 	},
 	{
@@ -459,7 +459,7 @@
 		"code": "KI"
 	},
 	{
-		"name": "Korea, Democratic People\"S Republic of",
+		"name": "Korea, Democratic People\'S Republic of",
 		"code": "KP"
 	},
 	{
@@ -475,7 +475,7 @@
 		"code": "KG"
 	},
 	{
-		"name": "Lao People\"S Democratic Republic",
+		"name": "Lao People\'S Democratic Republic",
 		"code": "LA"
 	},
 	{
@@ -515,7 +515,7 @@
 		"code": "MO"
 	},
 	{
-		"name": "Macedonia, The Former Yugoslav Republic of",
+		"name": "Macedonia",
 		"code": "MK"
 	},
 	{
@@ -567,11 +567,11 @@
 		"code": "MX"
 	},
 	{
-		"name": "Micronesia, Federated States of",
+		"name": "Micronesia",
 		"code": "FM"
 	},
 	{
-		"name": "Moldova, Republic of",
+		"name": "Moldova",
 		"code": "MD"
 	},
 	{
@@ -667,7 +667,7 @@
 		"code": "PW"
 	},
 	{
-		"name": "Palestinian Territory, Occupied",
+		"name": "Palestinian Territory",
 		"code": "PS"
 	},
 	{
@@ -851,7 +851,7 @@
 		"code": "TJ"
 	},
 	{
-		"name": "Tanzania, United Republic of",
+		"name": "Tanzania",
 		"code": "TZ"
 	},
 	{
