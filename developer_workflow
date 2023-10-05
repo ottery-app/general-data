@@ -1,0 +1,16 @@
+Title: Developer workflow
+Use: Use this when making a new checklist
+Type: read-do
+Date: 10/4/2023
+
+Checklist
+[ ] Pick an issue
+[ ] leave short description for how you will solve it
+[ ] make a branch for that issue
+[ ] solve issue
+[ ] raise pr and leave a comment and link to the issue
+[ ] request review
+
+Notes:
+* make PRs as small as possible and have them linked only to on issue
+* any details on how you will solve an issue should be as long as the issue is complex. If you feel diagrams and documents are needed to describe the solution then provide them.
